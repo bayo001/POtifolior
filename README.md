@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# My second Potifolio App
 
 Potifolio website
